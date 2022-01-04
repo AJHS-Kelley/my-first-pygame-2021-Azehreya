@@ -3,7 +3,7 @@
 import pygame, sys, time
 from pygame.locals import *
 
-from myFirstPygame import GREEN, RED, WHITE
+
 
 # Setup PyGame
 pygame.init()
